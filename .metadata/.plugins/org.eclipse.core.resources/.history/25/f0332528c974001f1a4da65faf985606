@@ -1,0 +1,17 @@
+
+public class inicio {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a=32;
+		int b=12;
+		int c=0;
+		
+		System.out.println("El resultado es: 384" );
+		
+		for(int i=0;i<=b;i++) {
+			c+=a;
+		}
+		System.out.println(c);
+	}
+}

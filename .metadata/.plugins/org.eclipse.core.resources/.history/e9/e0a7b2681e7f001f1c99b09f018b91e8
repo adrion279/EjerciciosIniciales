@@ -1,0 +1,15 @@
+
+public class Pruebas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		int b;
+		double c;
+		
+		float f1=(float)(3/2.0);
+		
+	}
+
+}

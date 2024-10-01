@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\adria\Escritorio\S1DAM 24-25\Programacion\Eclipse 2024-09\Ejercicios Septiembre\.metadata\.plugins\org.eclipse.jdt.core
+1409409756.index
+1865797976.index
+2960303362.index
+833524587.index

@@ -1,0 +1,25 @@
+package PruebasMias;
+
+import java.util.Scanner;
+
+public class mayorMenor {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	Scanner teclado=new Scanner(System.in) ;
+	System.out.println("Hola dame un numero del 1 al 20");
+	int num=teclado.nextInt();
+	int i;
+	for(i=1;i==num;i++) {
+		System.out.println(i);
+		
+	}
+	
+	
+	
+	
+	
+	
+	}
+
+}

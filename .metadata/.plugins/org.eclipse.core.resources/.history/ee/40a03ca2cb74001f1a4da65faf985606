@@ -1,0 +1,31 @@
+
+public class inicio {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//Hacer la multiplicacion de a y b sin usar multiplicacion (Solo Sumas)
+		int a=32;
+		int b=12;
+		int c=0;
+		
+		/*System.out.println("El resultado es: 384" );
+		
+		for(int i=0;i<b;i++) {
+			c+=a;
+		}
+		System.out.println(c);*/
+		
+		int resta1=32;
+		int resta2=12;
+		int resultadoresta=0;
+		int resto=0;
+		for (int k=resta1 ;k<=resta2;) {
+			k-=resta2;
+			System.out.println(k);
+			resultadoresta+=1;
+			resto =k;
+		}
+		System.out.println(resultadoresta);
+		System.out.println(resto);
+	}
+}
